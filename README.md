@@ -6,7 +6,7 @@ Indicator based on multi-timeframe EMA ribbons, RSI, Ichimoku Kinko Hyo, Hull Su
 
 ## Chart Preview
 
-![Indicator Preview](3-9-conversion-ss.png)
+![Indicator Preview](3-9-conversion-ss.jpg)
 
 --
 
